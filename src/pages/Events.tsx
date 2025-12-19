@@ -4,8 +4,8 @@ import { ArrowRight, Users } from "lucide-react";
 import summitImg from "@/assets/events/AURO2.png";
 import campusImg from "@/assets/events/campusconversions.png";
 import entrepreneurImg from "@/assets/events/enterprenurship.png";
-import Slide2 from "@/assets/Slide2.JPG";
-import Slide3 from "@/assets/Slide3.JPG";
+import Slide2 from "@/assets/Slide2.jpg";
+import Slide3 from "@/assets/Slide3.jpg";
 import heroBg from "@/assets/event.png";
 import SEO from "@/components/SEO";
 
