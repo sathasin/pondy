@@ -1,6 +1,6 @@
 import { Layout } from "@/components/layout/Layout";
 import heroPuducherry from "@/assets/hero-puducherry.jpg";
-import auro from "@/assets/Auro.png";
+import auro from "@/assets/auro.png";
 import gokitemp from "@/assets/gokitemp.png";
 import bas from "@/assets/bas.png";
 import oceanspray from "@/assets/oceanspray.png";
