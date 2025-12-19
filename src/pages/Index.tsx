@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 import { Layout } from "@/components/layout/Layout";
 import { ArrowRight, Briefcase, GraduationCap, Heart, MapPin, Users, Calendar, Handshake, Leaf, Globe } from "lucide-react";
 import heroPuducherry from "@/assets/pondibanner.jpg";
-import auro from "@/assets/Auro.png";
+import auro from "@/assets/auro.png";
 import pillarBusiness from "@/assets/business.png";
 import pillarEducation from "@/assets/education.png";
 import pillarSpirituality from "@/assets/gokitemp.png";
