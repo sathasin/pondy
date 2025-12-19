@@ -10,7 +10,7 @@ import samrajImage from "@/assets/samraj.png";
 import siddhar1 from "@/assets/siddhar-1.svg";
 import siddhar2 from "@/assets/siddhar-2.svg";
 import siddhar3 from "@/assets/siddhar-3.svg";
-import auro from "@/assets/Auro.png";
+import auro from "@/assets/auro.png";
 import frenchcolony from "@/assets/frenchcolony.png";
 import beach from "@/assets/beach.png";
 import gokitemp from "@/assets/gokitemp.png";
